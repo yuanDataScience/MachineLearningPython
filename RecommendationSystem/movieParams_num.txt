@@ -1,3 +1,0 @@
-num_features,10
-num_movies,1682
-num_users,943
